@@ -1,11 +1,11 @@
 /*
- * https://coolors.co/27213c-5a352a-a33b20-a47963-a6a57a
+ * https://coolors.co/f2efea-fc7753-66d7d1-403d58-dbd56e
  *
- * #27213C - Dark Purple
- * #5A352A - Caput Mortuum
- * #A33B20 - Rufous
- * #A47963 - Chamoisee
- * #A6A57A - Sage
+ * #F2EFEA - Isabelline
+ * #FC7753 - Coral
+ * #66D7D1 - Tiffany Blue
+ * #403D58 - English Violet
+ * #DBD56E - Straw
  */
 
 :root {
@@ -28,12 +28,12 @@ h1, h2, h3 {
 h1 {
     font-size: 4em;
     font-weight: 900;
-    text-shadow: 0.02em 0.04em #27213C;
-    color: #A6A57A;
+    text-shadow: 0.02em 0.04em #403D58;
+    color: #FC7753;
 }
 
 h2 {
-    border-bottom: 0.1em solid #A33B20;
+    border-bottom: 0.1em solid #66D7D1;
     padding: 0.25em;
     margin: 1.6em 0;
 }
@@ -43,7 +43,7 @@ section p {
 }
 
 .project {
-    background-color: #27213C;
+    background-color: #403D58;
     color: #F2EFEA;
     padding: 0.5em 2em;
     border-radius: 0.5em;
@@ -51,6 +51,6 @@ section p {
 }
 
 .project h3 {
-    color: #A6A57A;
+    color: #DBD563;
     margin-top: 1rem;
 }
