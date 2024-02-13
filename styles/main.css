@@ -1,3 +1,13 @@
+/*
+ * https://coolors.co/27213c-5a352a-a33b20-a47963-a6a57a
+ *
+ * #27213C - Dark Purple
+ * #5A352A - Caput Mortuum
+ * #A33B20 - Rufous
+ * #A47963 - Chamoisee
+ * #A6A57A - Sage
+ */
+
 :root {
     font-family: sans-serif;
     background-color: #F2EFEA;
@@ -13,4 +23,15 @@ body {
 h1, h2 {
     text-align: center;
     line-height: normal;
+}
+
+h1 {
+    font-size: 4em;
+    font-weight: 900;
+    text-shadow: 0.02em 0.04em #27213C;
+    color: #A6A57A;
+}
+
+section p {
+    text-indent: 2.8em;
 }
