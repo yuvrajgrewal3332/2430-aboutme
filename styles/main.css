@@ -45,10 +45,12 @@ section p {
 .project {
     background-color: #27213C;
     color: #F2EFEA;
-    padding: 2em;
+    padding: 0.5em 2em;
+    border-radius: 0.5em;
     margin-bottom: 1.5em;
 }
 
 .project h3 {
     color: #A6A57A;
+    margin-top: 1rem;
 }
