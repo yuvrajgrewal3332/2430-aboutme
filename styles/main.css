@@ -53,4 +53,8 @@ section p {
 .project h3 {
     color: #A6A57A;
     margin-top: 1rem;
+    margin-left: 2em;
+    margin-right: 2em;
+    border-bottom: 0.1em solid #a6a57a;
+    padding-bottom: 0.5em;
 }
