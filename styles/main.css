@@ -32,6 +32,12 @@ h1 {
     color: #A6A57A;
 }
 
+h2 {
+    border-bottom: 0.1em solid #A33B20;
+    padding: 0.25em;
+    margin: 1.6em 0;
+}
+
 section p {
     text-indent: 2.8em;
 }
