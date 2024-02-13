@@ -1,0 +1,16 @@
+:root {
+    font-family: sans-serif;
+    background-color: #F2EFEA;
+    color: black;
+}
+
+body {
+    max-width: 90ch;
+    margin: 0 auto;
+    line-height: 1.5;
+}
+
+h1, h2 {
+    text-align: center;
+    line-height: normal;
+}
