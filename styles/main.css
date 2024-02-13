@@ -20,7 +20,7 @@ body {
     line-height: 1.5;
 }
 
-h1, h2 {
+h1, h2, h3 {
     text-align: center;
     line-height: normal;
 }
@@ -40,4 +40,15 @@ h2 {
 
 section p {
     text-indent: 2.8em;
+}
+
+.project {
+    background-color: #27213C;
+    color: #F2EFEA;
+    padding: 2em;
+    margin-bottom: 1.5em;
+}
+
+.project h3 {
+    color: #A6A57A;
 }
